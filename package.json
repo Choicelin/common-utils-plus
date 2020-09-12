@@ -1,6 +1,6 @@
 {
   "name": "common-utils-plus",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Your lite util tools that include some functions",
   "main": "dist/index.js",
   "scripts": {
