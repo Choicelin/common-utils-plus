@@ -1,4 +1,4 @@
-<p align="center"><h1>common-utils-plus</h1></p>
+<p align="center"><b>common-utils-plus</b></p>
 <p align="center">
   <a href="https://npmcharts.com/compare/common-utils-plus?minimal=true"><img src="https://img.shields.io/npm/dm/common-utils-plus.svg?sanitize=true" alt="Downloads"></a>
   <a href="https://www.npmjs.com/package/common-utils-plus"><img src="https://img.shields.io/npm/v/common-utils-plus.svg?sanitize=true" alt="Version"></a>
