@@ -9,3 +9,12 @@ export const uuid: (length: number) => string = (length) => {
   s[8] = s[13] = s[18] = s[23] = '-'
   return s.join('')
 }
+
+export const shuffle: (arr: any[]) => any[] = (arr) => {
+  let len = arr.length;
+  while (len > 1){
+    let index = Math.floor(Math.random() * len--);
+    [arr[len] , arr[index]] = [arr[index] , arr[len]]
+  }
+  return arr;
+}
