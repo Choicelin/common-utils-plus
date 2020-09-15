@@ -1,4 +1,4 @@
-export const uuid: (length: number) => string = (length) => {
+export const uuid: (length: number) => string = (length= 36) => {
   const s: string[] = []
   const randomStr: string = '0123456789abcdef'
   for (let i = 0; i < length; i++) {
