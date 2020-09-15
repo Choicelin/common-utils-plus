@@ -1,4 +1,9 @@
-# tools 
+<p align="center">common-utils-plus </p>
+<p align="center">
+  <a href="https://npmcharts.com/compare/common-utils-plus?minimal=true"><img src="https://img.shields.io/npm/dm/common-utils-plus.svg?sanitize=true" alt="Downloads"></a>
+  <a href="https://www.npmjs.com/package/common-utils-plus"><img src="https://img.shields.io/npm/v/common-utils-plus.svg?sanitize=true" alt="Version"></a>
+  <a href="https://www.npmjs.com/package/common-utils-plus"><img src="https://img.shields.io/npm/l/common-utils-plus.svg?sanitize=true" alt="License"></a>
+</p>
 - common utils plus makes your life easier.
 
 ## uuid 
