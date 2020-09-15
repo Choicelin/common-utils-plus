@@ -4,7 +4,7 @@
   <a href="https://www.npmjs.com/package/common-utils-plus"><img src="https://img.shields.io/npm/v/common-utils-plus.svg?sanitize=true" alt="Version"></a>
   <a href="https://www.npmjs.com/package/common-utils-plus"><img src="https://img.shields.io/npm/l/common-utils-plus.svg?sanitize=true" alt="License"></a>
 </p>
-- common utils plus makes your life easier.
+common utils plus makes your life easier.
 
 ## uuid 
 param is a number which the length of return string value is.
